@@ -82,7 +82,7 @@ Motivated EECS student at the University of California, Berkeley with a strong f
 ## Languages
 
 - English: Fluent
-- Vietnamese: Conversational
+- Burmese: Fluent
 
 ## Interests
 
@@ -90,4 +90,3 @@ Motivated EECS student at the University of California, Berkeley with a strong f
 - Algorithmic Problem Solving
 - UI/UX Design
 - Travel
-- Music Production
