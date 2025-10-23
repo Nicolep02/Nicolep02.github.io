@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "Software Engineer | UC Berkeley EECS\n| nphan24860@gmail.com | 510-474-2494 | github.com/Nicolep02 | linkedin.com/in/nicolewphan\n\n\nMotivated EECS student at the University of California, Berkeley with a strong foundation in software engineering, data systems, and computer architecture. Experienced in building full-stack applications, backend automation tools, and embedded logic designs. Passionate about systems security, scalable software, and clean code design.\n\n\n\n\n\nFebruary 2025 - May 2025\n\nBuilt and optimized data-processing pipelines to support ongoing research projects.\nCollaborated with interdisciplinary teams to integrate technical solutions into research workflows.\n\n\n\n\nJanuary 2025\n\nObserved engineering teams building enterprise endpoint management and cybersecurity products.\nGained exposure to large-scale system optimization and IT infrastructure security practices.\n\n\n\n\nMay 2023 - August 2023\n\nLed a team of 3 interns to develop and deploy a full-stack mobile application supporting immigrant communities.\nArchitected core features using Dart and Flutter.\nDelivered a production-ready product within a three-month timeline.\n\n\n\n\nJanuary 2022 - May 2024\n\nTutored 30+ students in C++, Python, Assembly, and Java.\nDebugged and optimized student code and guided lab projects.\nTaught programming fundamentals and data structure design.\n\n\n\n\nMay 2022 - August 2023\n\nFounded and led a 5-member executive team to grow the chapter and host technical workshops.\nAdvocated for women in tech and expanded peer mentorship opportunities.\n\n\n\n\n\n\n\nUniversity of California, Berkeley\nExpected Spring 2027\n\n\n\n\n\nLanguages: C++, Python, Java, C#, SQL, JavaScript, TypeScript, Dart\nFrameworks: .NET, React, Node.js, Flutter, Material-UI\nDeveloper Tools & Concepts: Git, REST APIs, Google Calendar API, Asynchronous Programming, Regex, Object-Oriented Design (OOD)\n\n\n\n\n\n\nC#, .NET, REST APIs, Google Calendar API, JSON\n\nDeveloped an asynchronous C# application that aggregates coursework deadlines from multiple APIs.\nAutomated Google Calendar updates to streamline academic scheduling.\n\n\n\n\nLogisim, RISC-V\n\nDesigned and implemented a two-cycle pipelined processor from scratch.\nBuilt custom control logic and register files for MIPS instruction execution.\n\n\n\n\nPython, Pandas\n\nEngineered algorithmic optimizations for ride-sharing routes achieving 0.1s runtime efficiency.\nRanked top-performing team in department-wide competition.\n\n\n\n\nReact, Tailwind CSS, JavaScript\n\nDesigned a full-stack web app that compiles travel itineraries with restaurant and hotel recommendations.\n\n\n\n\n\n\nEnglish: Fluent\nBurmese: Fluent\n\n\n\n\n\nSystems Security\nAlgorithmic Problem Solving\nUI/UX Design\nTravel"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "Motivated EECS student at the University of California, Berkeley with a strong foundation in software engineering, data systems, and computer architecture. Experienced in building full-stack applications, backend automation tools, and embedded logic designs. Passionate about systems security, scalable software, and clean code design."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "February 2025 - May 2025\n\nBuilt and optimized data-processing pipelines to support ongoing research projects.\nCollaborated with interdisciplinary teams to integrate technical solutions into research workflows.\n\n\n\n\nJanuary 2025\n\nObserved engineering teams building enterprise endpoint management and cybersecurity products.\nGained exposure to large-scale system optimization and IT infrastructure security practices.\n\n\n\n\nMay 2023 - August 2023\n\nLed a team of 3 interns to develop and deploy a full-stack mobile application supporting immigrant communities.\nArchitected core features using Dart and Flutter.\nDelivered a production-ready product within a three-month timeline.\n\n\n\n\nJanuary 2022 - May 2024\n\nTutored 30+ students in C++, Python, Assembly, and Java.\nDebugged and optimized student code and guided lab projects.\nTaught programming fundamentals and data structure design.\n\n\n\n\nMay 2022 - August 2023\n\nFounded and led a 5-member executive team to grow the chapter and host technical workshops.\nAdvocated for women in tech and expanded peer mentorship opportunities."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "University of California, Berkeley\nExpected Spring 2027"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "Languages: C++, Python, Java, C#, SQL, JavaScript, TypeScript, Dart\nFrameworks: .NET, React, Node.js, Flutter, Material-UI\nDeveloper Tools & Concepts: Git, REST APIs, Google Calendar API, Asynchronous Programming, Regex, Object-Oriented Design (OOD)"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "C#, .NET, REST APIs, Google Calendar API, JSON\n\nDeveloped an asynchronous C# application that aggregates coursework deadlines from multiple APIs.\nAutomated Google Calendar updates to streamline academic scheduling.\n\n\n\n\nLogisim, RISC-V\n\nDesigned and implemented a two-cycle pipelined processor from scratch.\nBuilt custom control logic and register files for MIPS instruction execution.\n\n\n\n\nPython, Pandas\n\nEngineered algorithmic optimizations for ride-sharing routes achieving 0.1s runtime efficiency.\nRanked top-performing team in department-wide competition.\n\n\n\n\nReact, Tailwind CSS, JavaScript\n\nDesigned a full-stack web app that compiles travel itineraries with restaurant and hotel recommendations."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "English: Fluent\nBurmese: Fluent"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Nicole Phan",
+    "section": "",
+    "text": "Systems Security\nAlgorithmic Problem Solving\nUI/UX Design\nTravel"
+  }
+]
