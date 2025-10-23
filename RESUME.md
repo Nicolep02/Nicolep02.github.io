@@ -1,62 +1,93 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# Nicole Phan
+Software Engineer | UC Berkeley EECS  
+| [nphan24860@gmail.com](mailto:nphan24860@gmail.com)
+| [510-474-2494](tel:+15104742494)
+| [github.com/Nicolep02](https://github.com/Nicolep02)
+| [linkedin.com/in/nicolewphan](https://www.linkedin.com/in/nicolewphan/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+Motivated EECS student at the University of California, Berkeley with a strong foundation in software engineering, data systems, and computer architecture. Experienced in building full-stack applications, backend automation tools, and embedded logic designs. Passionate about systems security, scalable software, and clean code design.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Undergraduate Research Apprentice Program (URAP), UC Berkeley
+*February 2025 - May 2025*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+- Built and optimized data-processing pipelines to support ongoing research projects.
+- Collaborated with interdisciplinary teams to integrate technical solutions into research workflows.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Engineering Shadowing, Tanium
+*January 2025*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Observed engineering teams building enterprise endpoint management and cybersecurity products.
+- Gained exposure to large-scale system optimization and IT infrastructure security practices.
+
+### Software Engineering Intern, ESLearn – Frugal Innovation Hub, Santa Clara University
+*May 2023 - August 2023*
+
+- Led a team of 3 interns to develop and deploy a full-stack mobile application supporting immigrant communities.
+- Architected core features using Dart and Flutter.
+- Delivered a production-ready product within a three-month timeline.
+
+### Software Engineering Tutor, Ohlone College
+*January 2022 - May 2024*
+
+- Tutored 30+ students in C++, Python, Assembly, and Java.
+- Debugged and optimized student code and guided lab projects.
+- Taught programming fundamentals and data structure design.
+
+### President, Girls Who Code College Loop – Ohlone College
+*May 2022 - August 2023*
+
+- Founded and led a 5-member executive team to grow the chapter and host technical workshops.
+- Advocated for women in tech and expanded peer mentorship opportunities.
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Bachelor of Science in Electrical Engineering and Computer Sciences (EECS)
+*University of California, Berkeley*  
+*Expected Spring 2027*
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+- **Languages:** C++, Python, Java, C#, SQL, JavaScript, TypeScript, Dart
+- **Frameworks:** .NET, React, Node.js, Flutter, Material-UI
+- **Developer Tools & Concepts:** Git, REST APIs, Google Calendar API, Asynchronous Programming, Regex, Object-Oriented Design (OOD)
 
 ## Projects
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
+### Coursework Aggregator
+*C#, .NET, REST APIs, Google Calendar API, JSON*
 
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+- Developed an asynchronous C# application that aggregates coursework deadlines from multiple APIs.
+- Automated Google Calendar updates to streamline academic scheduling.
+
+### CPU Design with Logisim
+*Logisim, RISC-V*
+
+- Designed and implemented a two-cycle pipelined processor from scratch.
+- Built custom control logic and register files for MIPS instruction execution.
+
+### Calyber
+*Python, Pandas*
+
+- Engineered algorithmic optimizations for ride-sharing routes achieving 0.1s runtime efficiency.
+- Ranked top-performing team in department-wide competition.
+
+### My-Travels
+*React, Tailwind CSS, JavaScript*
+
+- Designed a full-stack web app that compiles travel itineraries with restaurant and hotel recommendations.
 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
+- Vietnamese: Conversational
 
 ## Interests
 
-- Hiking
-- Technology
-- Photography
+- Systems Security
+- Algorithmic Problem Solving
+- UI/UX Design
+- Travel
+- Music Production
